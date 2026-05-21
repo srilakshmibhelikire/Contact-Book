@@ -6,8 +6,11 @@ This is a simple Contact Book project developed using Python 🐍.
 
 This project allows users to:
 ➕ Add contacts
+
 📋 View contacts
+
 🔍 Search contacts
+
 🗑️ Delete contacts
 
 This project was created as part of the Kodbud Python Programming Internship 💻.
